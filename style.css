@@ -1,0 +1,47 @@
+.ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    background: rgba(11, 69, 116, 0.758);
+    padding: 20px;
+    color: white;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body { 
+    background: #1e1c1c;
+}
+
+form {
+    background: #333030;
+    padding: 10px;
+    border-radius: 7px;
+    margin: 30px;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.auf {
+    display: none;
+}
+
+.years {
+    display: none;
+
+}
+
+.cal1:hover {
+    cursor: pointer;
+}
+
+.age2:hover {
+    cursor: pointer;
+}
+
+.login2:hover {
+    cursor: pointer;
+}
